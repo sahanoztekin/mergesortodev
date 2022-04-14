@@ -18,4 +18,5 @@
 # Soru: Big-O gösterimini yazınız.
 
 - Sorunun Cevabı
-  O(nLogn)
+
+  # O(nLogn)
